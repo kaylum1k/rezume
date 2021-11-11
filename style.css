@@ -1,0 +1,50 @@
+#leftSidebar{
+    background: linear-gradient(to top,90deg, #aea4e3, #d3ffe8);
+    float: left;
+    width: 250px;
+    height: 879px;
+    margin-top: 0px;
+}
+#main{
+    background: linear-gradient(90deg, #b9deed, #efefef);
+    height: 880px;
+    margin-left: 264px;
+    margin-right: 50px;
+}
+.edu {
+    font-size: 30px;
+}
+.shadow {
+    box-shadow: 0 0 6px rgba(0,0,0,0.5);
+    padding: 1px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 125%;
+}
+button {
+    position: relative;
+left: 50%;
+top: 23%;
+transform: translate(-50%, 0);
+background: linear-gradient(90deg, #faf0cd, #fab397);
+}
+body {
+    background: linear-gradient(90deg, #b9deed, #efefef);
+}
+.div1 {
+    font-size: 30px;
+    background: rgb(106,212,24);
+    background: linear-gradient(90deg, rgba(106,212,24,1) 0%, rgba(210,42,42,1) 100%);
+}
+.div2 {
+    background: linear-gradient(90deg, rgba(251,63,63,1) 0%, rgba(180,42,210,1) 100%);
+    font-size: 30px;
+}
+.div3 {
+    background: rgb(212,156,24);
+background: linear-gradient(90deg, rgba(212,156,24,1) 0%, rgba(42,184,210,1) 100%);
+font-size: 30px;
+}
